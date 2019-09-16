@@ -1,0 +1,2 @@
+print("GoodBye!");
+print("goodbye my love goodbye");
