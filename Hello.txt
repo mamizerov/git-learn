@@ -1,4 +1,5 @@
-print("Hello!!!");
-print("Hello world!");
-Здравствйте друзья
-Я очень рад вас видеть
+print("Hello!!!;");
+print("Hello world!;");
+print("Hello!!!;");
+print("Hello world!;");
+Здравствуй друг!;
